@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/muthusrinivasan/Testobject-master/E:\\BasicSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "/Users/muthusrinivasan/Testobject-master/E:\\BasicSample\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "/Users/muthusrinivasan/Testobject-master/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher.png",
+        "source": "/Users/muthusrinivasan/Testobject-master/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    }
+]
