@@ -22,6 +22,7 @@ import android.text.TextWatcher;
 import java.util.regex.Pattern;
 
 /**
+ * created by mohansundar n
  * An Email format validator for {@link android.widget.EditText}.
  */
 public class EmailValidator implements TextWatcher {
